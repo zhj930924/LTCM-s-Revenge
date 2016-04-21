@@ -1,0 +1,468 @@
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.pdb
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xml
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.vsto
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.dll
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.xml
+c:\users\yj3eb.mcintire\documents\visual studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\hi\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\New folder\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\sg6m\Desktop\SpartanTrader\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v2\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Desktop\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader v3\SpartanTrader v3\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader'''\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\yj3eb.MCINTIRE\Documents\Visual Studio 2015\Projects\SpartanTrader-3.31\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\yj3eb\Documents\Visual Studio 2015\Projects\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.pdb
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\SpartanTrader.dll
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\SpartanTrader.pdb
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\SpartanTrader.xml
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\SpartanTrader.vsto
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.dll
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.xml
+E:\IT in Finance\SpartanTrader-4.5\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\jz5ba.MCINTIRE.000\Desktop\HW 21\SpartanTrader\obj\Debug\SpartanTrader.pdb
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\SpartanTrader.dll
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\SpartanTrader.pdb
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\SpartanTrader.xml
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\SpartanTrader.vsto
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\IT in Finance\HW 21\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.dll
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.xml
+E:\IT in Finance\HW 21\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge\SpartanTrader\obj\Debug\SpartanTrader.pdb

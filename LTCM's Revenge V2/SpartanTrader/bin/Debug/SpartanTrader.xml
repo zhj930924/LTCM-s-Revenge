@@ -1,0 +1,395 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SpartanTrader
+</name>
+</assembly>
+<members>
+<member name="T:SpartanTrader.Dashboard">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.Initialize">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.FinishInitialization">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.InitializeDataBindings">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.InitializeCachedData">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.InitializeData">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.BindToData">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.StartCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.StopCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.IsCached(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.BeginInitialization">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.EndInitialization">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.InitializeControls">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.InitializeComponents">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.NeedsFill(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Dashboard.OnShutdown">
+
+</member>
+<member name="T:SpartanTrader.Globals">
+
+</member>
+<member name="M:SpartanTrader.Globals.#ctor">
+
+</member>
+<member name="T:SpartanTrader.Portfolio">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.Initialize">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.FinishInitialization">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.InitializeDataBindings">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.InitializeCachedData">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.InitializeData">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.BindToData">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.StartCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.StopCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.IsCached(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.BeginInitialization">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.EndInitialization">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.InitializeControls">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.InitializeComponents">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.NeedsFill(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Portfolio.OnShutdown">
+
+</member>
+<member name="T:SpartanTrader.Markets">
+
+</member>
+<member name="M:SpartanTrader.Markets.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:SpartanTrader.Markets.Initialize">
+
+</member>
+<member name="M:SpartanTrader.Markets.FinishInitialization">
+
+</member>
+<member name="M:SpartanTrader.Markets.InitializeDataBindings">
+
+</member>
+<member name="M:SpartanTrader.Markets.InitializeCachedData">
+
+</member>
+<member name="M:SpartanTrader.Markets.InitializeData">
+
+</member>
+<member name="M:SpartanTrader.Markets.BindToData">
+
+</member>
+<member name="M:SpartanTrader.Markets.StartCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Markets.StopCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Markets.IsCached(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Markets.BeginInitialization">
+
+</member>
+<member name="M:SpartanTrader.Markets.EndInitialization">
+
+</member>
+<member name="M:SpartanTrader.Markets.InitializeControls">
+
+</member>
+<member name="M:SpartanTrader.Markets.InitializeComponents">
+
+</member>
+<member name="M:SpartanTrader.Markets.NeedsFill(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Markets.OnShutdown">
+
+</member>
+<member name="T:SpartanTrader.Environment">
+
+</member>
+<member name="M:SpartanTrader.Environment.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:SpartanTrader.Environment.Initialize">
+
+</member>
+<member name="M:SpartanTrader.Environment.FinishInitialization">
+
+</member>
+<member name="M:SpartanTrader.Environment.InitializeDataBindings">
+
+</member>
+<member name="M:SpartanTrader.Environment.InitializeCachedData">
+
+</member>
+<member name="M:SpartanTrader.Environment.InitializeData">
+
+</member>
+<member name="M:SpartanTrader.Environment.BindToData">
+
+</member>
+<member name="M:SpartanTrader.Environment.StartCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Environment.StopCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Environment.IsCached(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Environment.BeginInitialization">
+
+</member>
+<member name="M:SpartanTrader.Environment.EndInitialization">
+
+</member>
+<member name="M:SpartanTrader.Environment.InitializeControls">
+
+</member>
+<member name="M:SpartanTrader.Environment.InitializeComponents">
+
+</member>
+<member name="M:SpartanTrader.Environment.NeedsFill(System.String)">
+
+</member>
+<member name="M:SpartanTrader.Environment.OnShutdown">
+
+</member>
+<member name="T:SpartanTrader.FinCharts">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.Initialize">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.FinishInitialization">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.InitializeDataBindings">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.InitializeCachedData">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.InitializeData">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.BindToData">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.StartCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.StopCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.IsCached(System.String)">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.BeginInitialization">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.EndInitialization">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.InitializeControls">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.InitializeComponents">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.NeedsFill(System.String)">
+
+</member>
+<member name="M:SpartanTrader.FinCharts.OnShutdown">
+
+</member>
+<member name="T:SpartanTrader.TransactionQueue">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.Initialize">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.FinishInitialization">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.InitializeDataBindings">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.InitializeCachedData">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.InitializeData">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.BindToData">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.StartCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.StopCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.IsCached(System.String)">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.BeginInitialization">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.EndInitialization">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.InitializeControls">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.InitializeComponents">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.NeedsFill(System.String)">
+
+</member>
+<member name="M:SpartanTrader.TransactionQueue.OnShutdown">
+
+</member>
+<member name="T:SpartanTrader.ThisRibbonCollection">
+
+</member>
+<member name="M:SpartanTrader.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+
+</member>
+<member name="T:SpartanTrader.ThisWorkbook">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.Initialize">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.FinishInitialization">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.InitializeDataBindings">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.InitializeCachedData">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.InitializeData">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.BindToData">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.StartCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.StopCaching(System.String)">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.IsCached(System.String)">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.BeginInitialization">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.EndInitialization">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.InitializeControls">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.InitializeComponents">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.NeedsFill(System.String)">
+
+</member>
+<member name="M:SpartanTrader.ThisWorkbook.OnShutdown">
+
+</member>
+<member name="T:SpartanTrader.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SpartanTrader.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SpartanTrader.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

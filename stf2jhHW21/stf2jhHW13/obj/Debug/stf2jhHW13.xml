@@ -1,0 +1,395 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+stf2jhHW13
+</name>
+</assembly>
+<members>
+<member name="T:stf2jhHW13.Dashboard">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.Initialize">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.FinishInitialization">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.InitializeDataBindings">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.InitializeCachedData">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.InitializeData">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.BindToData">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.StartCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.StopCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.IsCached(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.BeginInitialization">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.EndInitialization">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.InitializeControls">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.InitializeComponents">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.NeedsFill(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Dashboard.OnShutdown">
+
+</member>
+<member name="T:stf2jhHW13.Globals">
+
+</member>
+<member name="M:stf2jhHW13.Globals.#ctor">
+
+</member>
+<member name="T:stf2jhHW13.Portfolio">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.Initialize">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.FinishInitialization">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.InitializeDataBindings">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.InitializeCachedData">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.InitializeData">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.BindToData">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.StartCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.StopCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.IsCached(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.BeginInitialization">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.EndInitialization">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.InitializeControls">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.InitializeComponents">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.NeedsFill(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Portfolio.OnShutdown">
+
+</member>
+<member name="T:stf2jhHW13.Environment">
+
+</member>
+<member name="M:stf2jhHW13.Environment.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:stf2jhHW13.Environment.Initialize">
+
+</member>
+<member name="M:stf2jhHW13.Environment.FinishInitialization">
+
+</member>
+<member name="M:stf2jhHW13.Environment.InitializeDataBindings">
+
+</member>
+<member name="M:stf2jhHW13.Environment.InitializeCachedData">
+
+</member>
+<member name="M:stf2jhHW13.Environment.InitializeData">
+
+</member>
+<member name="M:stf2jhHW13.Environment.BindToData">
+
+</member>
+<member name="M:stf2jhHW13.Environment.StartCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Environment.StopCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Environment.IsCached(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Environment.BeginInitialization">
+
+</member>
+<member name="M:stf2jhHW13.Environment.EndInitialization">
+
+</member>
+<member name="M:stf2jhHW13.Environment.InitializeControls">
+
+</member>
+<member name="M:stf2jhHW13.Environment.InitializeComponents">
+
+</member>
+<member name="M:stf2jhHW13.Environment.NeedsFill(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Environment.OnShutdown">
+
+</member>
+<member name="T:stf2jhHW13.Markets">
+
+</member>
+<member name="M:stf2jhHW13.Markets.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:stf2jhHW13.Markets.Initialize">
+
+</member>
+<member name="M:stf2jhHW13.Markets.FinishInitialization">
+
+</member>
+<member name="M:stf2jhHW13.Markets.InitializeDataBindings">
+
+</member>
+<member name="M:stf2jhHW13.Markets.InitializeCachedData">
+
+</member>
+<member name="M:stf2jhHW13.Markets.InitializeData">
+
+</member>
+<member name="M:stf2jhHW13.Markets.BindToData">
+
+</member>
+<member name="M:stf2jhHW13.Markets.StartCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Markets.StopCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Markets.IsCached(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Markets.BeginInitialization">
+
+</member>
+<member name="M:stf2jhHW13.Markets.EndInitialization">
+
+</member>
+<member name="M:stf2jhHW13.Markets.InitializeControls">
+
+</member>
+<member name="M:stf2jhHW13.Markets.InitializeComponents">
+
+</member>
+<member name="M:stf2jhHW13.Markets.NeedsFill(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.Markets.OnShutdown">
+
+</member>
+<member name="T:stf2jhHW13.TransactionQueue">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.Initialize">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.FinishInitialization">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.InitializeDataBindings">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.InitializeCachedData">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.InitializeData">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.BindToData">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.StartCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.StopCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.IsCached(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.BeginInitialization">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.EndInitialization">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.InitializeControls">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.InitializeComponents">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.NeedsFill(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.TransactionQueue.OnShutdown">
+
+</member>
+<member name="T:stf2jhHW13.FinCharts">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.Initialize">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.FinishInitialization">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.InitializeDataBindings">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.InitializeCachedData">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.InitializeData">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.BindToData">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.StartCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.StopCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.IsCached(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.BeginInitialization">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.EndInitialization">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.InitializeControls">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.InitializeComponents">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.NeedsFill(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.FinCharts.OnShutdown">
+
+</member>
+<member name="T:stf2jhHW13.ThisRibbonCollection">
+
+</member>
+<member name="M:stf2jhHW13.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+
+</member>
+<member name="T:stf2jhHW13.ThisWorkbook">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.Initialize">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.FinishInitialization">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.InitializeDataBindings">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.InitializeCachedData">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.InitializeData">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.BindToData">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.StartCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.StopCaching(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.IsCached(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.BeginInitialization">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.EndInitialization">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.InitializeControls">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.InitializeComponents">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.NeedsFill(System.String)">
+
+</member>
+<member name="M:stf2jhHW13.ThisWorkbook.OnShutdown">
+
+</member>
+<member name="T:stf2jhHW13.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:stf2jhHW13.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:stf2jhHW13.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

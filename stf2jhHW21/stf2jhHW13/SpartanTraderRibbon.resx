@@ -1,0 +1,585 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AlphaButton.Label" xml:space="preserve">
+    <value>Alpha</value>
+  </data>
+  <data name="&gt;&gt;AlphaButton.Name" xml:space="preserve">
+    <value>AlphaButton</value>
+  </data>
+  <data name="&gt;&gt;AlphaButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ToggleButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;AlphaButton.Parent" xml:space="preserve">
+    <value>Group1</value>
+  </data>
+  <data name="&gt;&gt;AlphaButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="BetaButton.Label" xml:space="preserve">
+    <value>Beta</value>
+  </data>
+  <data name="&gt;&gt;BetaButton.Name" xml:space="preserve">
+    <value>BetaButton</value>
+  </data>
+  <data name="&gt;&gt;BetaButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ToggleButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;BetaButton.Parent" xml:space="preserve">
+    <value>Group1</value>
+  </data>
+  <data name="&gt;&gt;BetaButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="GammaButton.Label" xml:space="preserve">
+    <value>Gamma</value>
+  </data>
+  <data name="&gt;&gt;GammaButton.Name" xml:space="preserve">
+    <value>GammaButton</value>
+  </data>
+  <data name="&gt;&gt;GammaButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ToggleButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;GammaButton.Parent" xml:space="preserve">
+    <value>Group1</value>
+  </data>
+  <data name="&gt;&gt;GammaButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Group1.Label" xml:space="preserve">
+    <value>Database</value>
+  </data>
+  <data name="&gt;&gt;Group1.Name" xml:space="preserve">
+    <value>Group1</value>
+  </data>
+  <data name="&gt;&gt;Group1.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.GroupView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;Group1.Parent" xml:space="preserve">
+    <value>Tab1</value>
+  </data>
+  <data name="&gt;&gt;Group1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="ManualButton.Label" xml:space="preserve">
+    <value>Manual</value>
+  </data>
+  <data name="&gt;&gt;ManualButton.Name" xml:space="preserve">
+    <value>ManualButton</value>
+  </data>
+  <data name="&gt;&gt;ManualButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ToggleButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;ManualButton.Parent" xml:space="preserve">
+    <value>Control</value>
+  </data>
+  <data name="&gt;&gt;ManualButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="SynchButton.Label" xml:space="preserve">
+    <value>Synch</value>
+  </data>
+  <data name="&gt;&gt;SynchButton.Name" xml:space="preserve">
+    <value>SynchButton</value>
+  </data>
+  <data name="&gt;&gt;SynchButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ToggleButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;SynchButton.Parent" xml:space="preserve">
+    <value>Control</value>
+  </data>
+  <data name="&gt;&gt;SynchButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="SimulationButton.Label" xml:space="preserve">
+    <value>Simulation</value>
+  </data>
+  <data name="&gt;&gt;SimulationButton.Name" xml:space="preserve">
+    <value>SimulationButton</value>
+  </data>
+  <data name="&gt;&gt;SimulationButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ToggleButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;SimulationButton.Parent" xml:space="preserve">
+    <value>Control</value>
+  </data>
+  <data name="&gt;&gt;SimulationButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="AutoHedgeButton.Label" xml:space="preserve">
+    <value>AutoHedge</value>
+  </data>
+  <data name="&gt;&gt;AutoHedgeButton.Name" xml:space="preserve">
+    <value>AutoHedgeButton</value>
+  </data>
+  <data name="&gt;&gt;AutoHedgeButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ToggleButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;AutoHedgeButton.Parent" xml:space="preserve">
+    <value>Control</value>
+  </data>
+  <data name="&gt;&gt;AutoHedgeButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="Control.Label" xml:space="preserve">
+    <value>Control</value>
+  </data>
+  <data name="&gt;&gt;Control.Name" xml:space="preserve">
+    <value>Control</value>
+  </data>
+  <data name="&gt;&gt;Control.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.GroupView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;Control.Parent" xml:space="preserve">
+    <value>Tab1</value>
+  </data>
+  <data name="&gt;&gt;Control.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="DashboardButton.Label" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="&gt;&gt;DashboardButton.Name" xml:space="preserve">
+    <value>DashboardButton</value>
+  </data>
+  <data name="&gt;&gt;DashboardButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;DashboardButton.Parent" xml:space="preserve">
+    <value>Group2</value>
+  </data>
+  <data name="&gt;&gt;DashboardButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="FinChartsButton.Label" xml:space="preserve">
+    <value>Financial Charts</value>
+  </data>
+  <data name="&gt;&gt;FinChartsButton.Name" xml:space="preserve">
+    <value>FinChartsButton</value>
+  </data>
+  <data name="&gt;&gt;FinChartsButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;FinChartsButton.Parent" xml:space="preserve">
+    <value>Group2</value>
+  </data>
+  <data name="&gt;&gt;FinChartsButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Group2.Label" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="&gt;&gt;Group2.Name" xml:space="preserve">
+    <value>Group2</value>
+  </data>
+  <data name="&gt;&gt;Group2.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.GroupView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;Group2.Parent" xml:space="preserve">
+    <value>Tab1</value>
+  </data>
+  <data name="&gt;&gt;Group2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="InitialPositionsButton.Label" xml:space="preserve">
+    <value>Initial Positions</value>
+  </data>
+  <data name="&gt;&gt;InitialPositionsButton.Name" xml:space="preserve">
+    <value>InitialPositionsButton</value>
+  </data>
+  <data name="&gt;&gt;InitialPositionsButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;InitialPositionsButton.Parent" xml:space="preserve">
+    <value>Group3</value>
+  </data>
+  <data name="&gt;&gt;InitialPositionsButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="AcquiredPositionsButton.Label" xml:space="preserve">
+    <value>Acquired Positions</value>
+  </data>
+  <data name="&gt;&gt;AcquiredPositionsButton.Name" xml:space="preserve">
+    <value>AcquiredPositionsButton</value>
+  </data>
+  <data name="&gt;&gt;AcquiredPositionsButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;AcquiredPositionsButton.Parent" xml:space="preserve">
+    <value>Group3</value>
+  </data>
+  <data name="&gt;&gt;AcquiredPositionsButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="TransactionQButton.Label" xml:space="preserve">
+    <value>Transaction Q</value>
+  </data>
+  <data name="&gt;&gt;TransactionQButton.Name" xml:space="preserve">
+    <value>TransactionQButton</value>
+  </data>
+  <data name="&gt;&gt;TransactionQButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;TransactionQButton.Parent" xml:space="preserve">
+    <value>Group3</value>
+  </data>
+  <data name="&gt;&gt;TransactionQButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="ResetAPButton.Label" xml:space="preserve">
+    <value>Reset AP</value>
+  </data>
+  <data name="&gt;&gt;ResetAPButton.Name" xml:space="preserve">
+    <value>ResetAPButton</value>
+  </data>
+  <data name="&gt;&gt;ResetAPButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;ResetAPButton.Parent" xml:space="preserve">
+    <value>Group3</value>
+  </data>
+  <data name="&gt;&gt;ResetAPButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="EditAPButton.Label" xml:space="preserve">
+    <value>Edit AP</value>
+  </data>
+  <data name="&gt;&gt;EditAPButton.Name" xml:space="preserve">
+    <value>EditAPButton</value>
+  </data>
+  <data name="&gt;&gt;EditAPButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;EditAPButton.Parent" xml:space="preserve">
+    <value>Group3</value>
+  </data>
+  <data name="&gt;&gt;EditAPButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="UploadAPButton.Label" xml:space="preserve">
+    <value>Upload AP</value>
+  </data>
+  <data name="&gt;&gt;UploadAPButton.Name" xml:space="preserve">
+    <value>UploadAPButton</value>
+  </data>
+  <data name="&gt;&gt;UploadAPButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;UploadAPButton.Parent" xml:space="preserve">
+    <value>Group3</value>
+  </data>
+  <data name="&gt;&gt;UploadAPButton.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="ConfirmationButton.Label" xml:space="preserve">
+    <value>Confirmation</value>
+  </data>
+  <data name="&gt;&gt;ConfirmationButton.Name" xml:space="preserve">
+    <value>ConfirmationButton</value>
+  </data>
+  <data name="&gt;&gt;ConfirmationButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;ConfirmationButton.Parent" xml:space="preserve">
+    <value>Group3</value>
+  </data>
+  <data name="&gt;&gt;ConfirmationButton.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="Group3.Label" xml:space="preserve">
+    <value>Portfolio Management</value>
+  </data>
+  <data name="&gt;&gt;Group3.Name" xml:space="preserve">
+    <value>Group3</value>
+  </data>
+  <data name="&gt;&gt;Group3.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.GroupView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;Group3.Parent" xml:space="preserve">
+    <value>Tab1</value>
+  </data>
+  <data name="&gt;&gt;Group3.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="StockMktButton.Label" xml:space="preserve">
+    <value>Stock Mrkt</value>
+  </data>
+  <data name="&gt;&gt;StockMktButton.Name" xml:space="preserve">
+    <value>StockMktButton</value>
+  </data>
+  <data name="&gt;&gt;StockMktButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;StockMktButton.Parent" xml:space="preserve">
+    <value>Group4</value>
+  </data>
+  <data name="&gt;&gt;StockMktButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="OptionMktButton.Label" xml:space="preserve">
+    <value>Option Mkt</value>
+  </data>
+  <data name="&gt;&gt;OptionMktButton.Name" xml:space="preserve">
+    <value>OptionMktButton</value>
+  </data>
+  <data name="&gt;&gt;OptionMktButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;OptionMktButton.Parent" xml:space="preserve">
+    <value>Group4</value>
+  </data>
+  <data name="&gt;&gt;OptionMktButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="SP500Button.Label" xml:space="preserve">
+    <value>S&amp;P 500</value>
+  </data>
+  <data name="&gt;&gt;SP500Button.Name" xml:space="preserve">
+    <value>SP500Button</value>
+  </data>
+  <data name="&gt;&gt;SP500Button.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;SP500Button.Parent" xml:space="preserve">
+    <value>Group4</value>
+  </data>
+  <data name="&gt;&gt;SP500Button.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="SettingsButton.Label" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="&gt;&gt;SettingsButton.Name" xml:space="preserve">
+    <value>SettingsButton</value>
+  </data>
+  <data name="&gt;&gt;SettingsButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;SettingsButton.Parent" xml:space="preserve">
+    <value>Group4</value>
+  </data>
+  <data name="&gt;&gt;SettingsButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="TransactionButton.Label" xml:space="preserve">
+    <value>T Costs</value>
+  </data>
+  <data name="&gt;&gt;TransactionButton.Name" xml:space="preserve">
+    <value>TransactionButton</value>
+  </data>
+  <data name="&gt;&gt;TransactionButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;TransactionButton.Parent" xml:space="preserve">
+    <value>Group4</value>
+  </data>
+  <data name="&gt;&gt;TransactionButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Group4.Label" xml:space="preserve">
+    <value>Business Intelligence</value>
+  </data>
+  <data name="&gt;&gt;Group4.Name" xml:space="preserve">
+    <value>Group4</value>
+  </data>
+  <data name="&gt;&gt;Group4.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.GroupView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;Group4.Parent" xml:space="preserve">
+    <value>Tab1</value>
+  </data>
+  <data name="&gt;&gt;Group4.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="QuitButton.Label" xml:space="preserve">
+    <value>Quit</value>
+  </data>
+  <data name="&gt;&gt;QuitButton.Name" xml:space="preserve">
+    <value>QuitButton</value>
+  </data>
+  <data name="&gt;&gt;QuitButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;QuitButton.Parent" xml:space="preserve">
+    <value>Group5</value>
+  </data>
+  <data name="&gt;&gt;QuitButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="ExcludeIPButton.Label" xml:space="preserve">
+    <value>Exclude IP</value>
+  </data>
+  <data name="&gt;&gt;ExcludeIPButton.Name" xml:space="preserve">
+    <value>ExcludeIPButton</value>
+  </data>
+  <data name="&gt;&gt;ExcludeIPButton.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.ToggleButtonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;ExcludeIPButton.Parent" xml:space="preserve">
+    <value>Group5</value>
+  </data>
+  <data name="&gt;&gt;ExcludeIPButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Group5.Label" xml:space="preserve">
+    <value>Control</value>
+  </data>
+  <data name="&gt;&gt;Group5.Name" xml:space="preserve">
+    <value>Group5</value>
+  </data>
+  <data name="&gt;&gt;Group5.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.GroupView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;Group5.Parent" xml:space="preserve">
+    <value>Tab1</value>
+  </data>
+  <data name="&gt;&gt;Group5.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="Tab1.Label" xml:space="preserve">
+    <value>Spartan Trader</value>
+  </data>
+  <data name="&gt;&gt;Tab1.Name" xml:space="preserve">
+    <value>Tab1</value>
+  </data>
+  <data name="&gt;&gt;Tab1.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.TabView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="&gt;&gt;stRibbon.OfficeMenu.Name" xml:space="preserve">
+    <value>stRibbon.OfficeMenu</value>
+  </data>
+  <data name="&gt;&gt;stRibbon.OfficeMenu.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.OfficeMenuView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="&gt;&gt;stRibbon.OfficeMenu.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;stRibbon.OfficeMenu.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>stRibbon</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>Microsoft.VisualStudio.Tools.Office.Ribbon.View.GenericRibbonView, Microsoft.VisualStudio.Tools.Office.Designer, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
