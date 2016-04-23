@@ -28,4 +28,29 @@ Public Class Volatility
         Application.Run("Solver.xlam!SolverSolve", "True")
     End Sub
 
+    Public Sub LoopingThroughTable()
+        ' 22 To 10002
+        ' Alpha Options: T to AA, Stock: AC to AH
+        ' Beta Options: AJ to AQ, Stock: AS to AX
+        ' Gamma Options: AZ to BG, Stock: BI to BN
+        For x = 1 To 504
+            Table3.DataBodyRange.Value = Range(String.Format("AC{0}:AH{1}", x + 2, x + 2)).Value
+            Table2.DataBodyRange.Value = Range(String.Format("T{0}:AA{1}", 20 * x - 17, 20 * x + 2)).Value
+            ' Time
+            Range(String.Format("B{0}", x + 32)).Value = Range("B3").Value
+            ' Ticker
+            Range(String.Format("C{0}", x + 32)).Value = Range("I3").Value
+            ' GoalSeek Average
+            GoalSeekBtn_Click(Nothing, Nothing)
+            Range(String.Format("D{0}", x + 32)).Value = Range("K26").Value
+            ' Solver Average
+            SolverBtn_Click(Nothing, Nothing)
+            Range(String.Format("E{0}", x + 32)).Value = Range("K26").Value
+        Next
+    End Sub
+
+    Public Sub StartBtn_Click(sender As Object, e As EventArgs) Handles StartBtn.Click
+        LoopingThroughTable()
+    End Sub
+
 End Class

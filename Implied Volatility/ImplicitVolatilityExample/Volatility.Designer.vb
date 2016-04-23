@@ -19,17 +19,19 @@ Option Explicit On
 Partial Public NotInheritable Class Volatility
     Inherits Microsoft.Office.Tools.Excel.WorksheetBase
     
-    Friend WithEvents Table2 As Microsoft.Office.Tools.Excel.ListObject
-    
     Friend WithEvents Table3 As Microsoft.Office.Tools.Excel.ListObject
     
     Friend WithEvents Table4 As Microsoft.Office.Tools.Excel.ListObject
     
     Friend WithEvents Table1 As Microsoft.Office.Tools.Excel.ListObject
     
+    Friend WithEvents Table2 As Microsoft.Office.Tools.Excel.ListObject
+    
     Friend WithEvents GoalSeekBtn As Microsoft.Office.Tools.Excel.Controls.Button
     
     Friend WithEvents SolverBtn As Microsoft.Office.Tools.Excel.Controls.Button
+    
+    Friend WithEvents StartBtn As Microsoft.Office.Tools.Excel.Controls.Button
     
     '''
     <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
@@ -124,10 +126,10 @@ Partial Public NotInheritable Class Volatility
      Global.System.ComponentModel.EditorBrowsableAttribute(Global.System.ComponentModel.EditorBrowsableState.Never)>  _
     Private Sub BeginInitialization()
         Me.BeginInit
-        Me.Table2.BeginInit
         Me.Table3.BeginInit
         Me.Table4.BeginInit
         Me.Table1.BeginInit
+        Me.Table2.BeginInit
     End Sub
     
     '''
@@ -135,10 +137,10 @@ Partial Public NotInheritable Class Volatility
      Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Tools.Office.ProgrammingModel.dll", "14.0.0.0"),  _
      Global.System.ComponentModel.EditorBrowsableAttribute(Global.System.ComponentModel.EditorBrowsableState.Never)>  _
     Private Sub EndInitialization()
+        Me.Table2.EndInit
         Me.Table1.EndInit
         Me.Table4.EndInit
         Me.Table3.EndInit
-        Me.Table2.EndInit
         Me.EndInit
     End Sub
     
@@ -147,12 +149,13 @@ Partial Public NotInheritable Class Volatility
      Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Tools.Office.ProgrammingModel.dll", "14.0.0.0"),  _
      Global.System.ComponentModel.EditorBrowsableAttribute(Global.System.ComponentModel.EditorBrowsableState.Never)>  _
     Private Sub InitializeControls()
-        Me.Table2 = Globals.Factory.CreateListObject(Nothing, Nothing, "Sheet1:Table2", "Table2", Me)
         Me.Table3 = Globals.Factory.CreateListObject(Nothing, Nothing, "Sheet1:Table3", "Table3", Me)
         Me.Table4 = Globals.Factory.CreateListObject(Nothing, Nothing, "Sheet1:Table4", "Table4", Me)
         Me.Table1 = Globals.Factory.CreateListObject(Nothing, Nothing, "Sheet1:Table1", "Table1", Me)
+        Me.Table2 = Globals.Factory.CreateListObject(Nothing, Nothing, "Sheet1:Table2", "Table2", Me)
         Me.GoalSeekBtn = New Microsoft.Office.Tools.Excel.Controls.Button(Globals.Factory, Me.ItemProvider, Me.HostContext, "1CDFF6F4B1AA2114E1B1BDFB17E42BC45E7111", "1CDFF6F4B1AA2114E1B1BDFB17E42BC45E7111", Me, "GoalSeekBtn")
         Me.SolverBtn = New Microsoft.Office.Tools.Excel.Controls.Button(Globals.Factory, Me.ItemProvider, Me.HostContext, "2A9CBB267208EC242CA298D6268AAF7BD0DCC2", "2A9CBB267208EC242CA298D6268AAF7BD0DCC2", Me, "SolverBtn")
+        Me.StartBtn = New Microsoft.Office.Tools.Excel.Controls.Button(Globals.Factory, Me.ItemProvider, Me.HostContext, "3638E78923B8BE340383A1F13FB60874A91403", "3638E78923B8BE340383A1F13FB60874A91403", Me, "StartBtn")
     End Sub
     
     '''
@@ -179,9 +182,14 @@ Partial Public NotInheritable Class Volatility
         Me.SolverBtn.Text = "Solver"
         Me.SolverBtn.UseVisualStyleBackColor = false
         '
-        'Table2
+        'StartBtn
         '
-        Me.Table2.DefaultDataSourceUpdateMode = System.Windows.Forms.DataSourceUpdateMode.Never
+        Me.StartBtn.BackColor = System.Drawing.SystemColors.Control
+        Me.StartBtn.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
+        Me.StartBtn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.StartBtn.Name = "StartBtn"
+        Me.StartBtn.Text = "Start"
+        Me.StartBtn.UseVisualStyleBackColor = false
         '
         'Table3
         '
@@ -195,10 +203,15 @@ Partial Public NotInheritable Class Volatility
         '
         Me.Table1.DefaultDataSourceUpdateMode = System.Windows.Forms.DataSourceUpdateMode.Never
         '
-        'Sheet1
+        'Table2
+        '
+        Me.Table2.DefaultDataSourceUpdateMode = System.Windows.Forms.DataSourceUpdateMode.Never
+        '
+        'Volatility
         '
         Me.GoalSeekBtn.BindingContext = Me.BindingContext
         Me.SolverBtn.BindingContext = Me.BindingContext
+        Me.StartBtn.BindingContext = Me.BindingContext
     End Sub
     
     '''
@@ -213,10 +226,10 @@ Partial Public NotInheritable Class Volatility
      Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Tools.Office.ProgrammingModel.dll", "14.0.0.0"),  _
      Global.System.ComponentModel.EditorBrowsableAttribute(Global.System.ComponentModel.EditorBrowsableState.Never)>  _
     Protected Overrides Sub OnShutdown()
+        Me.Table2.Dispose
         Me.Table1.Dispose
         Me.Table4.Dispose
         Me.Table3.Dispose
-        Me.Table2.Dispose
         MyBase.OnShutdown
     End Sub
 End Class
