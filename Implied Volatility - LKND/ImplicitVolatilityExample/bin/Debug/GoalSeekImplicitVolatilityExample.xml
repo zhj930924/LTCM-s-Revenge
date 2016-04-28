@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GoalSeekImplicitVolatilityExample
+</name>
+</assembly>
+<members>
+<member name="T:GoalSeekImplicitVolatilityExample.Volatility">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.Initialize">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.FinishInitialization">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.InitializeDataBindings">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.InitializeCachedData">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.InitializeData">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.BindToData">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.StartCaching(System.String)">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.StopCaching(System.String)">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.IsCached(System.String)">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.BeginInitialization">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.EndInitialization">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.InitializeControls">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.InitializeComponents">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.NeedsFill(System.String)">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Volatility.OnShutdown">
+
+</member>
+<member name="T:GoalSeekImplicitVolatilityExample.Globals">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.Globals.#ctor">
+
+</member>
+<member name="T:GoalSeekImplicitVolatilityExample.ThisWorkbook">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.Initialize">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.FinishInitialization">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.InitializeDataBindings">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.InitializeCachedData">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.InitializeData">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.BindToData">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.StartCaching(System.String)">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.StopCaching(System.String)">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.IsCached(System.String)">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.BeginInitialization">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.EndInitialization">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.InitializeControls">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.InitializeComponents">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.NeedsFill(System.String)">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisWorkbook.OnShutdown">
+
+</member>
+<member name="T:GoalSeekImplicitVolatilityExample.ThisRibbonCollection">
+
+</member>
+<member name="M:GoalSeekImplicitVolatilityExample.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+
+</member>
+<member name="T:GoalSeekImplicitVolatilityExample.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:GoalSeekImplicitVolatilityExample.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:GoalSeekImplicitVolatilityExample.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
