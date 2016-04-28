@@ -1,4 +1,6 @@
 ﻿Module DataSetUtility
+
+
     Public Function GetExpiration(symbol As String) As Date
         For Each myrow As DataRow In myDataSet.Tables("OptionMarketOneDayTable").Rows
             If myrow("Symbol").trim() = symbol Then

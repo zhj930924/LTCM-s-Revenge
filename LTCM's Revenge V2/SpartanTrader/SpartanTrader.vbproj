@@ -122,7 +122,7 @@
     <Compile Include="BlackScholes.vb" />
     <Compile Include="DataSetUtility.vb" />
     <Compile Include="DBUtilities.vb" />
-    <Compile Include="DividendMachine.vb" />
+    <Compile Include="ContingencyPlan.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="Dashboard.Designer.vb">
       <DependentUpon>Dashboard.Designer.xml</DependentUpon>

@@ -1,8 +1,16 @@
 ﻿Module AccountingControls
 
     Public Function IsTransactionValid(ttype As String, sym As String, qty As Double) As Boolean
-        If IsInIP(ttype) And (ttype <> "CashDiv" Or ttype <> "X-Put" Or ttype <> "X-Call") Then
-            MessageBox.Show("Holy BatSmoke! Security in IP. Not sent.", "Accounting Controls", MessageBoxButtons.OK, MessageBoxIcon.Hand)
+        If NumberInIP(sym) < 0 And ttype = "Buy" Then
+            Return False
+        End If
+
+        If NumberInIP(sym) > 0 And ttype = "Sell" Or ttype = "SellShort" Then
+            Return False
+        End If
+
+        If IsInIP(sym) And qty > GetCurrPositionInAP(sym) And (ttype <> "CashDiv" Or ttype <> "X-Put" Or ttype <> "X-Call") Then
+            MessageBox.Show("TEST! IP has " + NumberInIP(sym) + " of " + sym + ", and you sent for " + qty + ". Not sent.", "Accounting Controls", MessageBoxButtons.OK, MessageBoxIcon.Hand)
             Return False
         End If
 

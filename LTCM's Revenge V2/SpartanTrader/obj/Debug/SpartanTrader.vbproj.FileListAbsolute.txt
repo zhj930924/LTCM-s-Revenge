@@ -530,3 +530,163 @@ C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\o
 C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.dll
 C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.xml
 C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\stf2jh.MCINTIRE\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V3\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\stf2jh\Desktop\My Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.pdb
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.dll
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.pdb
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.xml
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.vsto
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.dll
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.xml
+D:\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.pdb
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.dll
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.pdb
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.xml
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.dll.manifest
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.vsto
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\SpartanTrader.xlsx
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.vbprojResolveAssemblyReference.cache
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Dashboard.resources
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Environment.resources
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.FinCharts.resources
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Markets.resources
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Resources.resources
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.Portfolio.resources
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.SpartanTraderRibbon.resources
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.TransactionQueue.resources
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.vbproj.GenerateResource.Cache
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.dll
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.xml
+C:\Users\stf2jh\Desktop\Safe Space\LTCM's Revenge V2\SpartanTrader\obj\Debug\SpartanTrader.pdb

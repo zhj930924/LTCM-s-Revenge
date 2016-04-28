@@ -85,6 +85,10 @@ Partial Public NotInheritable Class Dashboard
     
     Friend WithEvents QtyRange As Microsoft.Office.Tools.Excel.NamedRange
     
+    Friend WithEvents FamilyGammaRange As Microsoft.Office.Tools.Excel.NamedRange
+    
+    Friend WithEvents DeltaGammaRatioRange As Microsoft.Office.Tools.Excel.NamedRange
+    
     Friend WithEvents TickerCBox As Microsoft.Office.Tools.Excel.Controls.ComboBox
     
     Friend WithEvents BuyStockBtn As Microsoft.Office.Tools.Excel.Controls.Button
@@ -265,6 +269,8 @@ Partial Public NotInheritable Class Dashboard
         Me.RecommendationRange.BeginInit
         Me.SymbolRange.BeginInit
         Me.QtyRange.BeginInit
+        Me.FamilyGammaRange.BeginInit
+        Me.DeltaGammaRatioRange.BeginInit
     End Sub
     
     '''
@@ -272,6 +278,8 @@ Partial Public NotInheritable Class Dashboard
      Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Tools.Office.ProgrammingModel.dll", "14.0.0.0"),  _
      Global.System.ComponentModel.EditorBrowsableAttribute(Global.System.ComponentModel.EditorBrowsableState.Never)>  _
     Private Sub EndInitialization()
+        Me.DeltaGammaRatioRange.EndInit
+        Me.FamilyGammaRange.EndInit
         Me.QtyRange.EndInit
         Me.SymbolRange.EndInit
         Me.RecommendationRange.EndInit
@@ -346,6 +354,8 @@ Partial Public NotInheritable Class Dashboard
         Me.RecommendationRange = Globals.Factory.CreateNamedRange(Nothing, Nothing, "RecommendationRange", "RecommendationRange", Me)
         Me.SymbolRange = Globals.Factory.CreateNamedRange(Nothing, Nothing, "SymbolRange", "SymbolRange", Me)
         Me.QtyRange = Globals.Factory.CreateNamedRange(Nothing, Nothing, "QtyRange", "QtyRange", Me)
+        Me.FamilyGammaRange = Globals.Factory.CreateNamedRange(Nothing, Nothing, "FamilyGammaRange", "FamilyGammaRange", Me)
+        Me.DeltaGammaRatioRange = Globals.Factory.CreateNamedRange(Nothing, Nothing, "DeltaGammaRatioRange", "DeltaGammaRatioRange", Me)
         Me.TickerCBox = New Microsoft.Office.Tools.Excel.Controls.ComboBox(Globals.Factory, Me.ItemProvider, Me.HostContext, "1FBBC927D10D5614424180A61FCC94E4AF19A1", "1FBBC927D10D5614424180A61FCC94E4AF19A1", Me, "TickerCBox")
         Me.BuyStockBtn = New Microsoft.Office.Tools.Excel.Controls.Button(Globals.Factory, Me.ItemProvider, Me.HostContext, "4804B894B4625B44B2A48BD24D6E1289DAA604", "4804B894B4625B44B2A48BD24D6E1289DAA604", Me, "BuyStockBtn")
         Me.CashDivBtn = New Microsoft.Office.Tools.Excel.Controls.Button(Globals.Factory, Me.ItemProvider, Me.HostContext, "58BD0BD1D56EA9547CB5B11250BD777D38F3C5", "58BD0BD1D56EA9547CB5B11250BD777D38F3C5", Me, "CashDivBtn")
@@ -525,6 +535,102 @@ Partial Public NotInheritable Class Dashboard
         Me.AlgoTransactionsLogTBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
         Me.AlgoTransactionsLogTBox.Text = "Robotransactions Log"
         '
+        'Trade0Btn
+        '
+        Me.Trade0Btn.BackColor = System.Drawing.Color.DarkOrange
+        Me.Trade0Btn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Trade0Btn.Name = "Trade0Btn"
+        Me.Trade0Btn.Text = "Button1"
+        Me.Trade0Btn.UseVisualStyleBackColor = false
+        '
+        'Trade1Btn
+        '
+        Me.Trade1Btn.BackColor = System.Drawing.Color.DarkOrange
+        Me.Trade1Btn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Trade1Btn.Name = "Trade1Btn"
+        Me.Trade1Btn.Text = "Button1"
+        Me.Trade1Btn.UseVisualStyleBackColor = false
+        '
+        'Trade2Btn
+        '
+        Me.Trade2Btn.BackColor = System.Drawing.Color.DarkOrange
+        Me.Trade2Btn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Trade2Btn.Name = "Trade2Btn"
+        Me.Trade2Btn.Text = "Button1"
+        Me.Trade2Btn.UseVisualStyleBackColor = false
+        '
+        'Trade3Btn
+        '
+        Me.Trade3Btn.BackColor = System.Drawing.Color.DarkOrange
+        Me.Trade3Btn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Trade3Btn.Name = "Trade3Btn"
+        Me.Trade3Btn.Text = "Button1"
+        Me.Trade3Btn.UseVisualStyleBackColor = false
+        '
+        'Trade4Btn
+        '
+        Me.Trade4Btn.BackColor = System.Drawing.Color.DarkOrange
+        Me.Trade4Btn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Trade4Btn.Name = "Trade4Btn"
+        Me.Trade4Btn.Text = "Button1"
+        Me.Trade4Btn.UseVisualStyleBackColor = false
+        '
+        'Trade5Btn
+        '
+        Me.Trade5Btn.BackColor = System.Drawing.Color.DarkOrange
+        Me.Trade5Btn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Trade5Btn.Name = "Trade5Btn"
+        Me.Trade5Btn.Text = "Button1"
+        Me.Trade5Btn.UseVisualStyleBackColor = false
+        '
+        'Trade6Btn
+        '
+        Me.Trade6Btn.BackColor = System.Drawing.Color.DarkOrange
+        Me.Trade6Btn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Trade6Btn.Name = "Trade6Btn"
+        Me.Trade6Btn.Text = "Button1"
+        Me.Trade6Btn.UseVisualStyleBackColor = false
+        '
+        'Trade7Btn
+        '
+        Me.Trade7Btn.BackColor = System.Drawing.Color.DarkOrange
+        Me.Trade7Btn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Trade7Btn.Name = "Trade7Btn"
+        Me.Trade7Btn.Text = "Button1"
+        Me.Trade7Btn.UseVisualStyleBackColor = false
+        '
+        'Trade8Btn
+        '
+        Me.Trade8Btn.BackColor = System.Drawing.Color.DarkOrange
+        Me.Trade8Btn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Trade8Btn.Name = "Trade8Btn"
+        Me.Trade8Btn.Text = "Button1"
+        Me.Trade8Btn.UseVisualStyleBackColor = false
+        '
+        'Trade9Btn
+        '
+        Me.Trade9Btn.BackColor = System.Drawing.Color.DarkOrange
+        Me.Trade9Btn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Trade9Btn.Name = "Trade9Btn"
+        Me.Trade9Btn.Text = "Button1"
+        Me.Trade9Btn.UseVisualStyleBackColor = false
+        '
+        'Trade10Btn
+        '
+        Me.Trade10Btn.BackColor = System.Drawing.Color.DarkOrange
+        Me.Trade10Btn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Trade10Btn.Name = "Trade10Btn"
+        Me.Trade10Btn.Text = "Button1"
+        Me.Trade10Btn.UseVisualStyleBackColor = false
+        '
+        'Trade11Btn
+        '
+        Me.Trade11Btn.BackColor = System.Drawing.Color.DarkOrange
+        Me.Trade11Btn.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Trade11Btn.Name = "Trade11Btn"
+        Me.Trade11Btn.Text = "Button1"
+        Me.Trade11Btn.UseVisualStyleBackColor = false
+        '
         'CAccountCell
         '
         Me.CAccountCell.DefaultDataSourceUpdateMode = System.Windows.Forms.DataSourceUpdateMode.Never
@@ -658,101 +764,13 @@ Partial Public NotInheritable Class Dashboard
         '
         Me.QtyRange.DefaultDataSourceUpdateMode = System.Windows.Forms.DataSourceUpdateMode.Never
         '
-        'Trade0Btn
+        'FamilyGammaRange
         '
-        Me.Trade0Btn.BackColor = System.Drawing.Color.DarkOrange
-        Me.Trade0Btn.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Trade0Btn.Name = "Trade0Btn"
-        Me.Trade0Btn.Text = "Button1"
-        Me.Trade0Btn.UseVisualStyleBackColor = false
+        Me.FamilyGammaRange.DefaultDataSourceUpdateMode = System.Windows.Forms.DataSourceUpdateMode.Never
         '
-        'Trade1Btn
+        'DeltaGammaRatioRange
         '
-        Me.Trade1Btn.BackColor = System.Drawing.Color.DarkOrange
-        Me.Trade1Btn.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Trade1Btn.Name = "Trade1Btn"
-        Me.Trade1Btn.Text = "Button1"
-        Me.Trade1Btn.UseVisualStyleBackColor = false
-        '
-        'Trade2Btn
-        '
-        Me.Trade2Btn.BackColor = System.Drawing.Color.DarkOrange
-        Me.Trade2Btn.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Trade2Btn.Name = "Trade2Btn"
-        Me.Trade2Btn.Text = "Button1"
-        Me.Trade2Btn.UseVisualStyleBackColor = false
-        '
-        'Trade3Btn
-        '
-        Me.Trade3Btn.BackColor = System.Drawing.Color.DarkOrange
-        Me.Trade3Btn.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Trade3Btn.Name = "Trade3Btn"
-        Me.Trade3Btn.Text = "Button1"
-        Me.Trade3Btn.UseVisualStyleBackColor = false
-        '
-        'Trade4Btn
-        '
-        Me.Trade4Btn.BackColor = System.Drawing.Color.DarkOrange
-        Me.Trade4Btn.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Trade4Btn.Name = "Trade4Btn"
-        Me.Trade4Btn.Text = "Button1"
-        Me.Trade4Btn.UseVisualStyleBackColor = false
-        '
-        'Trade5Btn
-        '
-        Me.Trade5Btn.BackColor = System.Drawing.Color.DarkOrange
-        Me.Trade5Btn.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Trade5Btn.Name = "Trade5Btn"
-        Me.Trade5Btn.Text = "Button1"
-        Me.Trade5Btn.UseVisualStyleBackColor = false
-        '
-        'Trade6Btn
-        '
-        Me.Trade6Btn.BackColor = System.Drawing.Color.DarkOrange
-        Me.Trade6Btn.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Trade6Btn.Name = "Trade6Btn"
-        Me.Trade6Btn.Text = "Button1"
-        Me.Trade6Btn.UseVisualStyleBackColor = false
-        '
-        'Trade7Btn
-        '
-        Me.Trade7Btn.BackColor = System.Drawing.Color.DarkOrange
-        Me.Trade7Btn.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Trade7Btn.Name = "Trade7Btn"
-        Me.Trade7Btn.Text = "Button1"
-        Me.Trade7Btn.UseVisualStyleBackColor = false
-        '
-        'Trade8Btn
-        '
-        Me.Trade8Btn.BackColor = System.Drawing.Color.DarkOrange
-        Me.Trade8Btn.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Trade8Btn.Name = "Trade8Btn"
-        Me.Trade8Btn.Text = "Button1"
-        Me.Trade8Btn.UseVisualStyleBackColor = false
-        '
-        'Trade9Btn
-        '
-        Me.Trade9Btn.BackColor = System.Drawing.Color.DarkOrange
-        Me.Trade9Btn.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Trade9Btn.Name = "Trade9Btn"
-        Me.Trade9Btn.Text = "Button1"
-        Me.Trade9Btn.UseVisualStyleBackColor = false
-        '
-        'Trade10Btn
-        '
-        Me.Trade10Btn.BackColor = System.Drawing.Color.DarkOrange
-        Me.Trade10Btn.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Trade10Btn.Name = "Trade10Btn"
-        Me.Trade10Btn.Text = "Button1"
-        Me.Trade10Btn.UseVisualStyleBackColor = false
-        '
-        'Trade11Btn
-        '
-        Me.Trade11Btn.BackColor = System.Drawing.Color.DarkOrange
-        Me.Trade11Btn.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Trade11Btn.Name = "Trade11Btn"
-        Me.Trade11Btn.Text = "Button1"
-        Me.Trade11Btn.UseVisualStyleBackColor = false
+        Me.DeltaGammaRatioRange.DefaultDataSourceUpdateMode = System.Windows.Forms.DataSourceUpdateMode.Never
         '
         'Dashboard
         '
@@ -797,6 +815,8 @@ Partial Public NotInheritable Class Dashboard
      Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Tools.Office.ProgrammingModel.dll", "14.0.0.0"),  _
      Global.System.ComponentModel.EditorBrowsableAttribute(Global.System.ComponentModel.EditorBrowsableState.Never)>  _
     Protected Overrides Sub OnShutdown()
+        Me.DeltaGammaRatioRange.Dispose
+        Me.FamilyGammaRange.Dispose
         Me.QtyRange.Dispose
         Me.SymbolRange.Dispose
         Me.RecommendationRange.Dispose

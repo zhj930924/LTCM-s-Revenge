@@ -3,12 +3,14 @@
     Public posInArray As Integer = 0
     Public underlier As String = ""
     Public familyDelta As Double = 0
+    Public familyGamma As Double = 0
     Public recSymbol As String = ""
     Public hedgeQty As Double = 0
     Public recTrType As String = ""
     Public recScore As Double = 0
     Public vol As Double = 0
     Public delta As Double = 0
+    Public gamma As Double = 0
     Public maxShort As Double = 0
     Public maxBuy As Double = 0
     Public recCurrPos As Double = 0
@@ -16,10 +18,12 @@
     Public bestScore As Double = 0
     Public bestQty As Double = 0
     Public bestSymbol As String = ""
+    Public DeltaGammaRatio As String 
 
     Public Sub FindBestHedge()
         If familyDelta > 0 Then
             'these base score weight are arbitrary. Improve them!
+            CalcScoreForCashingDividend(0)
             CalcScoreForSellingStock(800)
             CalcScoreForSellingCall(700)
             CalcScoreForSellingShortCall(600)
@@ -27,6 +31,7 @@
             CalcScoreForBuyingPut(400)
             CalcScoreForSellingShortStock(200)
         Else  ' famdelta < 0
+            CalcScoreForCashingDividend(0)
             CalcScoreForSellingPut(800)
             CalcScoreForBuyingBackCall(600)
             CalcScoreForBuyingBackStock(500)
@@ -40,10 +45,14 @@
         ' here you decide whether you need to hedge this family
         ' this is just an example with an arbitrary threshold  $5000 IS VERY TIGHT
         If Math.Abs(familyDelta) < 5000 Then
-            Return False
-        Else
+            If Math.Abs(familyGamma) < 5000 Then
+                Return False
+            Else
+                Return True
+            End If
             Return True
         End If
+        Return True
     End Function
 
     Public Sub ResetRecommendation()
@@ -52,6 +61,7 @@
         bestQty = 0
         bestScore = 0
         familyDelta = 0
+        FamilyGamma = 0
     End Sub
 
     Public Sub DisplayRecommendation()
@@ -59,14 +69,40 @@
         Globals.Dashboard.RecommendationRange.Cells(posInArray + 1, 1).Value = bestTrType
         Globals.Dashboard.SymbolRange.Cells(posInArray + 1, 1).Value = bestSymbol
         Globals.Dashboard.QtyRange.Cells(posInArray + 1, 1).Value = bestQty
+        Globals.Dashboard.FamilyGammaRange.Cells(posInArray + 1, 1).Value = familyGamma
+        Globals.Dashboard.DeltaGammaRatioRange.Cells(posInArray + 1, 1).Value = DeltaGammaRatio
     End Sub
+
+    'Public Function CalcQtyNeededToHedge(sym As String) As Integer
+    '    Dim FamilyDeltaTarget As Double = 0
+    '    Dim q As Double
+    '    delta = CalcDelta(sym, currentDate)
+
+    '    If Math.Abs(delta) < 0.05 Then
+    '        '  arbitrary threshold!
+    '        Return 0
+    '    End If
+    '    ' can change familydeltaTarget if you want to hedge to non-zero deltas
+    '    q = (FamilyDeltaTarget - familyDelta) / delta
+    '    Return Math.Abs(Math.Round(q))
+    'End Function
 
     Public Function CalcQtyNeededToHedge(sym As String) As Integer
         Dim FamilyDeltaTarget As Double = 0
+        Dim FamilyGammaTarget As Double = 0
         Dim q As Double
+
         delta = CalcDelta(sym, currentDate)
-        If Math.Abs(delta) < 0.05 Then  '  arbitrary threshold!
-            Return 0
+        gamma = CalcGamma(sym, currentDate)
+
+        If Math.Abs(delta) < 0.05 Then
+            If Math.Abs(gamma) < 0.05 Then
+                '  arbitrary threshold!
+                Return 0
+            ElseIf Math.Abs(gamma) >= 0.05 Then
+                q = (FamilyGammaTarget - familyGamma) / gamma
+                Return Math.Abs(Math.Round(q))
+            End If
         End If
         ' can change familydeltaTarget if you want to hedge to non-zero deltas
         q = (FamilyDeltaTarget - familyDelta) / delta
@@ -74,7 +110,7 @@
     End Function
 
     Public Function TooCloseToMaxMargins() As Boolean
-        If ((maxMargins - margin) < 5000000) Then   ' Arbitrary threshold
+        If ((maxMargins - margin) < 500000) Then   ' Arbitrary threshold
             Return True
         Else
             Return False
@@ -121,6 +157,35 @@
     End Function
 
     ' ------- TACTIC SCORING --------------------------------------------------------------------------------------------------
+    Public Function NumberInIP(underlier)
+        If IsInIP(underlier) Then
+            For Each myRow As DataRow In myDataSet.Tables("InitialPositionTable").Rows
+                If myRow("Symbol").Trim() = underlier Then
+                    Return myRow("Units")
+                End If
+            Next
+        Else
+            Return Nothing
+        End If
+        Return Nothing
+    End Function
+
+    Private Sub CalcScoreForCashingDividend(baseScore As Integer)
+        Dim adjust As Integer = 0
+        recCurrPos = GetCurrPositionInAP(underlier)
+
+        For Each myRow As DataRow In myDataSet.Tables("StockMarketOneDayTable").Rows
+            If myRow("DivDate").ToShortDateString = myRow("Date").ToShortDateString And myRow("Ticker").Trim() = underlier And myRow("Dividend") > 0 Then
+                adjust = 100000
+                bestTrType = "CashDiv"
+                bestSymbol = underlier
+                bestQty = NumberInIP(underlier)
+                bestScore = (baseScore + adjust)
+            End If
+        Next
+
+    End Sub
+
 
     Private Sub CalcScoreForSellingStock(baseScore As Integer)
         Dim adjust As Integer = 0
@@ -168,6 +233,9 @@
                                 hedgeQty = recCurrPos ' sell all you have
                                 adjust = -50  'because incomplete hedge
                             End If
+                            'If CAccount > (margin * 0.3) + 1000000 And TPV > TaTPV + 1000000 Then
+                            '    adjust = -100
+                            'End If '<- V5Change
                             If (baseScore + adjust) > bestScore Then
                                 bestTrType = "Sell"
                                 bestSymbol = recSymbol
@@ -199,6 +267,10 @@
                         hedgeQty = maxShort
                         adjust = -50
                     End If
+                    If CAccount > (margin * 0.3) + 1000000 Then
+                        hedgeQty = maxBuy
+                        adjust = -300
+                    End If '<-V5Change
                     If hedgeQty > 0 And (baseScore + adjust) > bestScore Then
                         bestTrType = "SellShort"
                         bestSymbol = recSymbol
@@ -265,6 +337,7 @@
                     If maxBuy < hedgeQty Then
                         hedgeQty = maxBuy
                         adjust = -50
+
                     End If
                     If hedgeQty > 0 And (baseScore + adjust) > bestScore Then
                         bestTrType = "Buy"
@@ -291,6 +364,10 @@
                     hedgeQty = maxShort
                     adjust = -50
                 End If
+                If CAccount > (margin * 0.3) + 1000000 Then
+                    hedgeQty = maxBuy
+                    adjust = -300
+                End If '<-V5Change
                 If hedgeQty > 0 And (baseScore + adjust) > bestScore Then
                     bestTrType = "SellShort"
                     bestSymbol = underlier
@@ -313,6 +390,9 @@
                     recCurrPos = GetCurrPositionInAP(recSymbol)
                     If recCurrPos > 0 Then
                         hedgeQty = CalcQtyNeededToHedge(recSymbol)
+                        'If CAccount > (margin * 0.3) + 1000000 And TPV > TaTPV + 1000000 Then
+                        '    adjust = -100
+                        'End If '<- V5Change
                         If recCurrPos < hedgeQty Then
                             hedgeQty = recCurrPos
                             adjust = -50
@@ -347,6 +427,10 @@
                         hedgeQty = maxShort
                         adjust = -50
                     End If
+                    If CAccount > (margin * 0.3) + 1000000 Then
+                        hedgeQty = maxBuy
+                        adjust = -100
+                    End If '<-V5Change
                     If hedgeQty > 0 And (baseScore + adjust) > bestScore Then
                         bestTrType = "SellShort"
                         bestSymbol = recSymbol
@@ -363,6 +447,7 @@
         If AvailableCashIsLow() Then
             Exit Sub
         End If
+
         For Each dr As DataRow In myDataSet.Tables(portfolioTableName).Rows
             recSymbol = dr("Symbol").ToString().Trim()
             If IsAStock(recSymbol) Or recSymbol = "CAccount" Then
@@ -473,7 +558,7 @@
             bestTrType = "Buy"
             bestSymbol = underlier
             bestQty = hedgeQty
-            bestScore = baseScore
+            bestScore = baseScore + adjust
         End If
     End Sub
 

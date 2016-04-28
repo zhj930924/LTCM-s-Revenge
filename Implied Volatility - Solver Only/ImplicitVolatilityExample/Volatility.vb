@@ -35,10 +35,10 @@ Public Class Volatility
         ' Gamma Options: AZ{0}:BG{1}, Stock: BI{0}:BN{1}
         For x = 1 To 500
             ' Stocks
-            Table3.DataBodyRange.Value = Range(String.Format("BI{0}:BN{1}", x + 2, x + 2)).Value
+            Table3.DataBodyRange.Value = Range(String.Format("AC{0}:AH{1}", x + 2, x + 2)).Value
 
             ' Options
-            Table2.DataBodyRange.Value = Range(String.Format("AZ{0}:BG{1}", 20 * x - 17, 20 * x + 2)).Value
+            Table2.DataBodyRange.Value = Range(String.Format("T{0}:AA{1}", 20 * x - 17, 20 * x + 2)).Value
 
             ' Time
             Range(String.Format("B{0}", x + 32)).Value = Range("B3").Value
