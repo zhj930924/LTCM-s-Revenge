@@ -33,7 +33,7 @@ Public Class Volatility
         ' Alpha Options: T to AA, Stock: AC to AH
         ' Beta Options: AJ to AQ, Stock: AS to AX
         ' Gamma Options: AZ to BG, Stock: BI to BN
-        For x = 1 To 504
+        For x = 1 To 41
             Table3.DataBodyRange.Value = Range(String.Format("BI{0}:BN{1}", x + 2, x + 2)).Value
             Table2.DataBodyRange.Value = Range(String.Format("AZ{0}:BG{1}", 20 * x - 17, 20 * x + 2)).Value
 
@@ -54,7 +54,9 @@ Public Class Volatility
     End Sub
 
     Public Sub StartBtn_Click(sender As Object, e As EventArgs) Handles StartBtn.Click
+
         LoopingThroughTable()
+
     End Sub
 
     Public Sub MyDelayMacro()
